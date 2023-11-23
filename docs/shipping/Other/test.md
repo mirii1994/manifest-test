@@ -6,7 +6,7 @@ overview: this is the description of a test
 product: ['logs', 'metrics']
 os: ['windows', 'linux']
 filters: ['aws', 'cloud']
-logo: https://docs.logz.io/images/logo/logz-symbol.svg
+logo: https://logzbucket.s3.eu-west-1.amazonaws.com/logz-docs/shipper-logos/tengine-logo.png
 logs_dashboards: ['dfsdfgsdgfds', 'sdfgsdfg', 'hrtgwgs']
 logs_alerts: ['sdfgs', 'xcvdb']
 logs2metrics: ['ersefg']
