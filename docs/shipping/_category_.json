@@ -1,0 +1,9 @@
+{
+  "label": "Send Your Data",
+  "position": 2,
+  "className": "releaseSidebarHeading",
+  "link": {
+    "type": "generated-index",
+    "description": "Send your data to Logz.io"
+  }
+}

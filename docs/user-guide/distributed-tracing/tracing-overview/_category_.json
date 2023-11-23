@@ -1,0 +1,8 @@
+{
+  "label": "Tracing Overview",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "description": "Everything you need to know about Logz.io's Tracing abilities."
+  }
+}

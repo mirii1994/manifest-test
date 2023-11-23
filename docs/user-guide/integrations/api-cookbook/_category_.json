@@ -1,0 +1,8 @@
+{
+  "label": "API cookbook",
+  "position": 4,
+  "link": {
+    "type": "generated-index",
+    "description": "Logz.io API tips and suggestions to help you get started."
+  }
+}

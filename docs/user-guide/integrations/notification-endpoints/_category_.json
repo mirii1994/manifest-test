@@ -1,0 +1,8 @@
+{
+  "label": "Notification Endpoints",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "description": "Configure Logz.io to send notifications to your preferred endpoints."
+  }
+}

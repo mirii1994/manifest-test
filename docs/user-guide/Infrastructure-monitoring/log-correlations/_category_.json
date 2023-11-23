@@ -1,0 +1,8 @@
+{
+  "label": "Log Correlations",
+  "position": 5,
+  "link": {
+    "type": "generated-index",
+    "description": "Your Metrics account offers several ways to correlate data between your Logz.io Infrastructure Monitoring and Log Management accounts"
+  }
+}

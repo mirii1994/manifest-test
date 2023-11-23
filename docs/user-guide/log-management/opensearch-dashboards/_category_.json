@@ -1,0 +1,8 @@
+{
+  "label": "OpenSearch Dashboards",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "description": "OpenSearch Dashboards is Logz.io's Log Analytics engine, allowing you to search and query your logs."
+  }
+}
