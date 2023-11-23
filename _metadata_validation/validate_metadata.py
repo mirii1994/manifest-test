@@ -346,3 +346,4 @@ def is_valid_bundle(bundle_str, bundle_type):
 
 if __name__ == '__main__':
     validate_changed_files()
+
